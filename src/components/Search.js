@@ -5,7 +5,7 @@ class Search extends React.Component {
   render() {
     return (
       <div className="searchBar">
-        <i class="ri-search-eye-line"></i>
+        <i className="ri-search-eye-line"></i>
         <input
           type="text"
           name="searchIn"
